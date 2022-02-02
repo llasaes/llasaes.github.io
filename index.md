@@ -1,14 +1,6 @@
 ## Fórmulas predictivas para el gasto basal y en reposo
-<script>
-  function myAlertMath() {
-    var userNumber = document.getElementById("mathInput").value;
-    alert("Your number x 5 is " + userNumber * 5);
-  }
-</script>
-<button onclick="alert('The test worked!');">Color It</button>
-<input id="mathInput" type="number"/>
-<button onclick="myAlertMath()">Multiply x 5</button>
-<p id="test" style="color:blue;"></p>
+
+
 
 <p>This site is open source. <a href="https://google.com">Improve this page</a></p>
 
